@@ -149,5 +149,11 @@ data/processed/
 ## Citation
 If you use this code, please cite:
 ```bibtex
-
+@article{wang2025llm,
+  title={LLM-Driven Preference Data Synthesis for Proactive Prediction of the Next User Utterance in Human-Machine Dialogue},
+  author={Wang, Jinqiang and Ning, Huansheng and Ding, Jianguo and Zhu, Tao and Chen, Liming and Nugent, Chris},
+  journal={arXiv preprint arXiv:2601.09713},
+  year={2025}
+}
 ```
+
